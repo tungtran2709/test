@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="OperatorButtonStyle">
+        <item name="android:textSize">@dimen/sp_30</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">@dimen/dp_1</item>
+        <item name="android:background">@color/color_gold_drop</item>
+    </style>
+
+    <style name="NumberButtonStyle">
+        <item name="android:textSize">@dimen/sp_30</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">@dimen/dp_1</item>
+        <item name="android:background">@color/color_fiord</item>
+    </style>
+
+    <style name="EqualButtonStyle">
+        <item name="android:textSize">@dimen/sp_30</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">@dimen/dp_1</item>
+        <item name="android:layout_marginTop">@dimen/dp_2</item>
+        <item name="android:layout_marginRight">@dimen/dp_2</item>
+        <item name="android:layout_marginBottom">@dimen/dp_2</item>
+        <item name="android:background">@color/color_scarlet</item>
+    </style>
+</resources>
